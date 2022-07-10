@@ -1,4 +1,4 @@
-console.log('Hello!');
+
 var wrapper = document.getElementById('wrapper');
 var masonary = document.getElementById('masonarySection');
 
